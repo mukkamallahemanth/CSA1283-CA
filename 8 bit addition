@@ -1,0 +1,6 @@
+LDA 2500
+MOV B,C
+LDA 2502
+Add B
+Sta 2504
+HLT
